@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+#album{
+    width: 600px;
+    height: 500px;
+}
+#hf{
+    font-size: 50px;
+}
+#button1{
+    height: 40px;
+    font-size: 18px;
+    width: 60px;
+}
